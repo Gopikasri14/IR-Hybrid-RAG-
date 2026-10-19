@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.pyc
+data/
+chroma_db/
+index_metadata.json
+indexed_files.json
+.env
+.streamlit/secrets.toml
